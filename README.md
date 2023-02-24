@@ -31,7 +31,7 @@ Despite the advancement of tools and technologies, mankind has yet to develop ap
 1. Clone the repository:
             
    ```
-   git clone https://github.com/SilentCruzer/Lumos.git
+   git clone git@github.com:achiit/teleconvo_ocr.git
    ```
 
 2. Open your code favourite editor (VS Code, Android Studio etc)
@@ -73,8 +73,8 @@ This was an enriching experience for all of us that are part of this team.
 
 ## 🛠 Try it out
             
-You can test out the application by installing it to your own device. The apk is available [here](https://github.com/SilentCruzer/Lumos/tree/master/apk).
-You can also try it out live over on [Appetize.io](https://appetize.io/app/ge8g4epwqbzvvnn7xxbadkptv0). We recommend using the app on a real device because the application relies heavily on the device camera.   
+You can test out the application by installing it to your own device. The apk is available [here](https://github.com/achiit/teleconvo_ocr/releases/download/apk/app-debug.apk).
+We recommend using the app on a real device because the application relies heavily on the device camera.   
             
 ## 🎓 Resouces 
             
