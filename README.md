@@ -1,8 +1,8 @@
 # Lumos
 
 <p align="center">
-  <a href="https://github.com/SilentCruzer/Lumos">
-    <img src="https://user-images.githubusercontent.com/73401649/133924591-8952e792-e159-414e-a21b-163397797504.png" height= 200 width=200
+  <a href="https://github.com/achiit/teleconvo_ocr">
+    <img src="https://drive.google.com/file/d/1zkf9Dgu-4iUZWME1rnPdfkCSNUAw8qn5/view?usp=share_link" height= 200 width=200
 " alt="Logo" >
   </a>
 
