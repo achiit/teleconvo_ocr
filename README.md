@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/achiit/teleconvo_ocr">
-    <img src="https://github.com/achiit/teleconvo_ocr/blob/main/assets/logo8.png" height= 400 width=200
+    <img src="https://github.com/achiit/teleconvo_ocr/blob/main/assets/logo8.png" height= 400 width=00
 " alt="Logo" >
   </a>
 
