@@ -1,8 +1,8 @@
-# Lumos
+# TELECONVO
 
 <p align="center">
   <a href="https://github.com/achiit/teleconvo_ocr">
-    <img src="https://drive.google.com/file/d/1zkf9Dgu-4iUZWME1rnPdfkCSNUAw8qn5/view?usp=share_link" height= 200 width=200
+    <img src="https://github.com/achiit/teleconvo_ocr/blob/main/assets/logo8.png" height= 200 width=200
 " alt="Logo" >
   </a>
 
