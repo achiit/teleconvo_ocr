@@ -86,23 +86,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view the [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
             
-## Team Divergent ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/r-adithya-kumar/"><img src="https://avatars.githubusercontent.com/u/73246484?s=400&u=fb905b798f809aa233a9a9b062ad7131acd5037e&v=4" width="100px;" alt=""/><br /><sub><b>Adithya Kumar</b></sub></a><br /><a href="https://github.com/SilentCruzer/Lumos/commits?author=SilentCruzer" title="Code">💻</a> <a href="#ideas-SilentCruzer" title="Documentation">📖</a> <a href="#ideas-SilentCruzer"  title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://yashk2000.github.io/"><img src="https://avatars3.githubusercontent.com/u/41234408?v=4" width="100px;" alt=""/><br /><sub><b>Yash Khare</b></sub></a><br /><a href="" title="Documentation">📖</a>  <a href="#ideas-yashk2000"  title="Mentor">🧑‍🏫</a><a href="#ideas-yashk2000"  title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://github.com/Akshatji800"><img src="https://avatars.githubusercontent.com/u/73401649?s=400&u=39e3769578c18ed0490372fa16dfd9259f1c78f4&v=4" width="100px;" alt=""/><br /><sub><b>Akshat Tripathi</b></sub></a><br /><a href="https://github.com/SilentCruzer/Lumos/commits?author=Akshatji800" title="Documentation">📖</a> <a href="https://github.com/SilentCruzer/Lumos/commits?author=Akshatji800" title="Code">💻</a> <a href="#ideas-Akshatji800" title="Ideas, Planning, & Feedback">🤔</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/amankumarsingh2000/"><img src="https://avatars.githubusercontent.com/u/73428153?v=4" width="100px;" alt=""/><br /><sub><b>Aman Kumar Singh</b></sub></a><br /><a href="https://github.com/SilentCruzer/Lumos/commits?author=theamankumarsingh" title="Code">💻</a> <a href="#ideas-theamankumarsingh" title="Ideas, Planning, & Feedback">🤔</a>  <a href="https://github.com/SilentCruzer/Lumos/commits?author=theamankumarsingh" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
